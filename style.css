@@ -336,7 +336,7 @@ button {
 }
 
 @media screen and (min-width: 300px) {
-  .container-fluid{
+  .pic img{
   display: block;
   border-radius: 2%;
   margin-right: auto;
