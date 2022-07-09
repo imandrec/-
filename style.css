@@ -2,7 +2,7 @@
 
 html,body {
   height: 50%;
-  background-color: #a88974;
+  background-color: #FFFFFF;
   padding: 10px 10px 10px 10px;
 }
 
@@ -64,7 +64,7 @@ h6{
 }
 
 a {
-  color: #D0156C;
+  color: #e5dcd5;
 }
 
 .nav-container {
@@ -103,7 +103,7 @@ a {
 }
 
 .topnav a:hover {
-  color: #D0156C !important;
+  color: #e5dcd5 !important;
 }
 
 .text{
@@ -112,7 +112,7 @@ a {
 
 .text a {
   font-size: 15px;
-  color: #D0156C !important;
+  color: #e5dcd5 !important;
 }
 
 .text a:hover {
@@ -148,10 +148,10 @@ a {
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
 }
 .square {
-  color: #D0156C;  
+  color: #e5dcd5;  
 }
 .square:nth-child(odd) {
-  background: #D0156C; 
+  background: #e5dcd5; 
   z-index: 1;
   position: relative;
 }
